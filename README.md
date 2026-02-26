@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **🌿MERN stack, 📜 Research Papers, 🌏 Web Development, 🧑‍💻 GEN AI ,✌️ Leadership, ⚙️ Machine Learning**
 
-- 📄 Know about my experiences [![Static Badge](https://img.shields.io/badge/My%20Resume-E68369?style=flat)](https://drive.google.com/file/d/1L4QPRmD_Z9P8NeNeUnL3U8ph8e3LgMb3/view?usp=drive_link&usp=embed_facebook)
+
 
 
 
